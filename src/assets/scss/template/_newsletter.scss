@@ -1,0 +1,89 @@
+
+.container{
+    .banner-img{
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    .section-1{
+        h1{
+            display: inline-block;
+            color: #C9393D;
+            font-size: 25px;
+            font-family: Roboto, Condensed Bold;
+        }
+        img{
+            display: inline-block;
+        }
+    }
+
+    .section-2{
+        border-style: dashed;
+        color: red;
+        .percent{
+            font-size: 60px;
+            font-family: Roboto, Condensed Bold;
+            color: #887676;
+        }
+        .promo{
+            font-size: 18px;
+        }
+
+        .promo-code{
+            color: #fff;
+            font-size: 40px;
+            background-color: #86181B;
+            padding: 5px 0;
+            margin: 0 90px;
+        }
+        .valid-date{
+            font-size: 18px;
+            color: #86181B;
+            margin-bottom: 0!important;
+        }
+    }
+
+    .section-3{
+        p{
+            padding: 10px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-family: Roboto, Regular;
+            b{
+                font-size: 20px;
+                font-family: Roboto, Bold;
+                color: #86191C;
+            }
+        }
+    }
+
+    .section-4{
+        h2{
+            font-size: 28px;
+            font-family: Roboto, Condensed Bold;
+            color: #C9393D;
+        }
+    }
+
+    .hr-sec{
+        padding-right: 0!important;
+        padding-left: 0!important;
+        .hr{
+            border-bottom: 1px solid #D6D6D6;
+        }
+    }
+
+    .logo-section{
+        center{
+            .logo-image{
+                width: 60px;
+                height: auto;
+            }
+        }
+       
+    }
+
+    .develop{
+        font-size: 14px;
+    }
+
+}
